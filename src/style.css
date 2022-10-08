@@ -6,7 +6,7 @@ body {background: #010101;
   overflow: hidden;
 } 
 
-#star {position: absolute;
+#sun {position: absolute;
   left: 50%;
   top: 50%;
   width: 250px;
@@ -17,7 +17,7 @@ body {background: #010101;
   box-shadow: 0 0 50px rgba(219, 230, 224, 1);
 }
 
-#planet {position: absolute;
+#moon {position: absolute;
   left: 10px;
   top: 1px;
   width: 250px;
